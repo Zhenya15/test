@@ -1,7 +1,7 @@
 [rsschool-cv]("https://github.com/Zhenya15/rsschool-cv/”)
 *******
 # Evgeniy Mushta 
-![me](/Users/mactesting/Desktop/me.jpg)
+
 ## About me
 <p> My name is Evgeniy, 21 years old, work as a lawyer.I like to study and learn something new. I like to read books, do physical education, listen to music. I like to work and see the results of my work. </p>
 
